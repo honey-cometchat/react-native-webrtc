@@ -1,13 +1,13 @@
 {
-  "name": "react-native-webrtc",
+  "name": "@honey-cometchat/react-native-webrtc",
   "version": "1.100.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-webrtc/react-native-webrtc.git"
+    "url": "git+https://github.com/honey-cometchat/react-native-webrtc.git"
   },
   "description": "WebRTC for React Native",
   "license": "MIT",
-  "homepage": "https://github.com/react-native-webrtc/react-native-webrtc",
+  "homepage": "https://github.com/honey-cometchat/react-native-webrtc",
   "keywords": [
     "react-component",
     "react-native",
@@ -33,7 +33,7 @@
     "prepare": "husky install && bob build"
   },
   "bugs": {
-    "url": "https://github.com/react-native-webrtc/react-native-webrtc/issues"
+    "url": "https://github.com/honey-cometchat/react-native-webrtc/issues"
   },
   "devDependencies": {
     "@types/react": "17.0.40",
